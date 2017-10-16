@@ -116,3 +116,11 @@ img, video, audio {
 .first {
   margin-left: 0% /*first column will have the margin of 0% */
 }
+
+/*///SECTIONs ///*/
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  
+}
